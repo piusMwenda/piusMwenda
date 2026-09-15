@@ -1,17 +1,17 @@
-# Hi, I'm [Your Name]
+# Hi, I'm pius mwenda.
 
 ## About Me
-- I'm currently learning [what you're studying, e.g., "Computer Science at University of Nairobi"].
-- I'm interested in [your interests, e.g., "AI, web development, and data science"].
-- I'm looking to collaborate on [e.g., "beginner-friendly open source projects"].
+- I'm currently learning Computer Science at University of Nairobi.
+- I'm interested in web development.
+- I'm looking to collaborate on beginner-friendly open source projects.
 
 ## Skills I'm Building
 - Git and GitHub
-- [Add others, e.g., "Python", "HTML/CSS", "Machine Learning"]
+-  "Python", "HTML/CSS", "Machine Learning".
 
 ## Current Projects
-- [Project name](link) — short description
+- fashion(link) — its help you to make your order
 
 ## How to Reach Me
-- Email: [your email]
-- LinkedIn: [your LinkedIn profile link]
+- Email: kingmwenda70@gmail.com.
+- LinkedIn: 
