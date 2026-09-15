@@ -25,8 +25,8 @@ youtube(https://youtube.com)
 - [ ] Another task to do
 - [ ] check off
 
-
-```python print("shikamo, wakenya!")
+```python
+print("Hello, world!")
 ```
 
 > This is a blockquote. always love practicing.
