@@ -18,3 +18,17 @@ youtube(https://youtube.com)
 |---------|-----------|----------|
 | website   | Developer | youtube.com   |
 | web     | Designer  | youtube.com   |
+
+
+- [x] Completed task
+- [ ] Incomplete task
+- [ ] Another task to do
+- [ ] check off
+
+
+```python
+print("shikamo, wakenya!")
+```
+
+      > This is a blockquote. always love practicing.
+      
